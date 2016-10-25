@@ -16,6 +16,7 @@
 		B02288421ABEEDAB00A13A0E /* DOPdemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B02288411ABEEDAB00A13A0E /* DOPdemoTests.m */; };
 		B0C45C9A1AC18B08006D5D36 /* DOPDropDownMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = B0C45C961AC18B08006D5D36 /* DOPDropDownMenu.m */; };
 		E87A01451DB090CB00044E20 /* DOPDropDownMenu-Enhanced.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E87A01441DB090CB00044E20 /* DOPDropDownMenu-Enhanced.xcassets */; };
+		E89B27381DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = E89B27371DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,8 @@
 		B0C45C951AC18B08006D5D36 /* DOPDropDownMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DOPDropDownMenu.h; sourceTree = "<group>"; };
 		B0C45C961AC18B08006D5D36 /* DOPDropDownMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DOPDropDownMenu.m; sourceTree = "<group>"; };
 		E87A01441DB090CB00044E20 /* DOPDropDownMenu-Enhanced.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "DOPDropDownMenu-Enhanced.xcassets"; path = "../DOPDropDownMenu-Enhanced.xcassets"; sourceTree = "<group>"; };
+		E89B27361DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LKCRMClientRankDropDownMenu.h; sourceTree = "<group>"; };
+		E89B27371DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LKCRMClientRankDropDownMenu.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 			children = (
 				B0C45C951AC18B08006D5D36 /* DOPDropDownMenu.h */,
 				B0C45C961AC18B08006D5D36 /* DOPDropDownMenu.m */,
+				E89B27361DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.h */,
+				E89B27371DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.m */,
 				E87A01441DB090CB00044E20 /* DOPDropDownMenu-Enhanced.xcassets */,
 			);
 			path = "DOPDropDownMenu - Enhanced";
@@ -237,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B022882E1ABEEDAB00A13A0E /* ViewController.m in Sources */,
+				E89B27381DBEE12100E4A14E /* LKCRMClientRankDropDownMenu.m in Sources */,
 				B0C45C9A1AC18B08006D5D36 /* DOPDropDownMenu.m in Sources */,
 				B022882B1ABEEDAB00A13A0E /* AppDelegate.m in Sources */,
 				B02288281ABEEDAB00A13A0E /* main.m in Sources */,
